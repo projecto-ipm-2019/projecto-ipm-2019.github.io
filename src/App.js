@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import logo from './logo.svg';
+import { Photoframe } from "./Containers/Photoframe/Photoframe";
 
 class App extends Component {
   render() {
@@ -8,12 +9,12 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1>
-            Interfaces Pessoa Máquina 2015-16
+            Interfaces Pessoa Máquina 2018-19
           </h1>
           <h2>
             Grupo 26 - Turno IPM20111326L07
           </h2>
-          <h3>Fotos</h3>
+          <Photoframe/>
           <div>
             <h2>
               Análise de Tarefas
