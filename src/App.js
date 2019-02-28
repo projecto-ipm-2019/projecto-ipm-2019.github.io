@@ -20,7 +20,7 @@ class App extends Component {
               Análise de Tarefas
             </h2>
             <a
-              href={""}
+              href={"https://goo.gl/forms/PurlvUrrlACIn6iS2"}
             >
               Questionário  para análise de tarefas
             </a>
@@ -148,7 +148,7 @@ class App extends Component {
           <hr/>
           <img
             src={logo}
-            className={"React-logo"}
+            className={"App-logo"}
             alt={"logo"}
           />
           <a

@@ -70,7 +70,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "http://projecto-ipm-2019.github.io",
+  "homepage": "https://projecto-ipm-2019.github.io",
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx,ts,tsx}",
