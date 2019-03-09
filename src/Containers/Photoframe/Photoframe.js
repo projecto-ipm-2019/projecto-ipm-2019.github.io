@@ -13,7 +13,7 @@ const members = [
   {
     name: "André Santos",
     student_number: 79718,
-    photo_src: photo79718
+    photo_src: photo83500
   },
   {
     name: "Luis Ferreira",
