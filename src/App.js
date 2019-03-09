@@ -14,7 +14,6 @@ class App extends Component {
           <h2>
             Grupo 26 - Turno IPM20111326L07
           </h2>
-          <Photoframe/>
           <div>
             <h2>
               Análise de Tarefas
