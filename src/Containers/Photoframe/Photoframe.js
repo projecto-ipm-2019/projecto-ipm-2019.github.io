@@ -17,7 +17,7 @@ const members = [
   {
     name: "Luis Ferreira",
     student_number: 83500,
-    photo_src: "./images/83500.jpg"",
+    photo_src: "./images/83500.jpg",
   }
 ];
 
