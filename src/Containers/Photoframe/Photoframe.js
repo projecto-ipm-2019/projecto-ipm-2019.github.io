@@ -1,7 +1,7 @@
 import React from 'react';
 import { Photo } from "../../Components/Photo/Photo"
 import photo79718 from "./images/79718.jpg"
-import photo 83500 from  "./images/83500.jpg"
+import photo83500 from  "./images/83500.jpg"
 
 const style = {
   column : {
