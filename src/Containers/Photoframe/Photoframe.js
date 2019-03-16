@@ -26,14 +26,23 @@ export const Photoframe = () => (
   <div>
     <table>
       <tbody>
-        <tr>
-          <td> André Santos</td>
-          <td> Luís Ferreira </td>
-        </tr>
-        <tr>
-          <td>img src=photo79718</td>
-          <td>img src=photo83500</td>  
-        </tr>
+      {
+        members.map(({name, student_number, photo_src}) => (
+          <td>
+            <div
+              style={style.column}
+            >
+              <Photo
+                src={photo_src}
+              />
+              <br/>
+              {name}
+              <br/>
+              {student_number}
+            </div>
+          </td>
+        ))
+      }
       </tbody>
     </table>
   </div>
