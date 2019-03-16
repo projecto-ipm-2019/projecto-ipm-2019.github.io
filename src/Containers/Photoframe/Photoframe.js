@@ -23,14 +23,16 @@ const members = [
 ];
 
 export const Photoframe = () => (
-  <div>
+  <div
+    className={"Photoframe"}
+  >
     <table>
       <tbody>
       {
         members.map(({name, student_number, photo_src}) => (
           <td>
             <div
-              style={style.column}
+              className="PhotoFrameElement"
             >
               <Photo
                 src={photo_src}

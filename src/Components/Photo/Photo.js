@@ -1,10 +1,6 @@
 import React, { Component } from 'react';
 import logo from '../../logo.svg';
 
-const style = {
-  width: "100%  ",
-};
-
 export class Photo extends Component {
   state = {
     isFlipped: false,
@@ -30,7 +26,7 @@ export class Photo extends Component {
           this.props.src
         }
         alt={"Photo of " + this.props.alt}
-        style={style}
+        className={"Photo"}
       />
     )
   }
