@@ -31,13 +31,13 @@ class App extends Component {
           </a>
           <br/>
           <a
-            href={""}
+            href={"https://drive.google.com/open?id=1CqLvqLw80HwUquxRbXl6HZ-21_8voTPV"}
           >
             Análise de tarefas + Funcionalidades
           </a>
           <br/>
           <a
-            href={""}
+            href={"https://docs.google.com/document/d/1pEJra-myJzXVXxx34VLyKCJobT-LMTb2Jo-tfS2lwDI/edit?usp=sharing"}
           >
             Análise de tarefas + Funcionalidades (melhorados)
           </a>
