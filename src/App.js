@@ -47,13 +47,13 @@ class App extends Component {
             Modelo Conceptual
           </h2>
           <a
-            href={""}
+            href={"https://drive.google.com/open?id=1Hn8c0Y1Wlmt-KcPvKBeLUD-joSOoq9qq"}
           >
             Modelo Conceptual
           </a>
           <br/>
           <a
-            href={""}
+            href={"https://drive.google.com/open?id=1Hn8c0Y1Wlmt-KcPvKBeLUD-joSOoq9qq"}
           >
             Modelo Conceptual (melhorado)
           </a>
@@ -75,31 +75,31 @@ class App extends Component {
           </a>
           <br/>
           <a
-            href={"/igo/"}
+            href={"https://github.com/projecto-ipm-2019/igo/tree/v0.1.0-local-build"}
           >
             Primeiro protótipo funcional
           </a>
           <br/>
           <a
-            href={"/igo/"}
+            href={"https://github.com/projecto-ipm-2019/igo/tree/v0.1.0-local-build"}
           >
             Primeiro protótipo funcional completo
           </a>
           <br/>
           <a
-            href={"/igo/"}
+            href={"https://github.com/projecto-ipm-2019/igo/tree/v0.2.0-local-build"}
           >
             Segundo protótipo funcional
           </a>
           <br/>
           <a
-            href={"/igo/"}
+            href={"https://github.com/projecto-ipm-2019/igo/tree/v0.2.0-local-build"}
           >
             Segundo protótipo funcional completo
           </a>
           <br/>
           <a
-            href={"/igo/"}
+            href={"https://github.com/projecto-ipm-2019/igo/tree/v0.3.2-local-build"}
           >
             Protótipo Final
           </a>
@@ -115,33 +115,15 @@ class App extends Component {
             Avaliação com Utilizadores
           </h2>
           <a
-            href={""}
-          >
-            Tarefas e Critérios de usabilidade
-          </a>
-          <br/>
-          <a
-            href={""}
-          >
-            Tarefas e Critérios de usabilidade (melhorado)
-          </a>
-          <br/>
-          <a
-            href={""}
+            href={"https://docs.google.com/document/d/1mVyMzfyWNxwx__im9Vjr9BZ92dqU2MJXxeSRKnYlgLc/edit?usp=sharing"}
           >
             Relatório de avaliação com utilizadores
           </a>
           <br/>
           <a
-            href={""}
+            href={"https://docs.google.com/document/d/1mVyMzfyWNxwx__im9Vjr9BZ92dqU2MJXxeSRKnYlgLc/edit?usp=sharing"}
           >
             Relatório de avaliação com utilizadores (melhorado)
-          </a>
-          <br/>
-          <a
-            href={""}
-          >
-            Manual do Utilizador
           </a>
         </div>
         <hr/>
